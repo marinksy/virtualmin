@@ -1,5 +1,5 @@
 #!/bin/bash
-
+##this is a random commit
 # Prompt user to modify MySQL connection details
 read -p "Enter MySQL host (default is localhost): " mysql_host
 mysql_host=${mysql_host:-localhost}  # Set default host to localhost if user didn't input anything
